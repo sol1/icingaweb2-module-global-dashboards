@@ -1,5 +1,5 @@
 # Global Dashboards Module for Icingaweb2 
-This module is a template for managing custom global dashboards in Icingaweb2. Fork or create a copy of this repository, customise the dashboards for your own needs then deploy them to Icingaweb2 as you would any other module.
+This module is a template for managing custom global dashboards in Icingaweb2. Fork this repository, customise the dashboards for your own needs then deploy them to Icingaweb2 as you would any other module.
 
 ## Setup
 1. Fork'd the repository and have added your own dashboards
